@@ -73,9 +73,10 @@ PRODUCT_PACKAGES += \
     IconShapeRoundedHexagonOverlay \
     RohieIconMeowOverlay
 
-# Themes
+# Other
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay
+    AndroidBlackThemeOverlay \
+    RoundQSOverlay
 
 # Statusbar Icons
 PRODUCT_PACKAGES += \
