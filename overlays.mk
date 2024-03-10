@@ -44,7 +44,7 @@ PRODUCT_PACKAGES += \
     FontLGSmartGothicSourceOverlay \
     FontMontserratSourceOverlay \
     FontNothingDotOverlay \
-    FontOneplusSansOverlay \
+    FontOnePlusSansOverlay \
     FontOneplusSlateSource \
     FontOppoSansOverlay \
     FontFluidSansOverlay \
