@@ -167,7 +167,3 @@ PRODUCT_PACKAGES += \
     NavbarSammyOverlay \
     NavbarKronicOverlay \
     NavbarDoraOverlay
-
-# Udfps Animations
-PRODUCT_PACKAGES += \
-    UdfpsAnimations
